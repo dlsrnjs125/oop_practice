@@ -7,9 +7,7 @@
 
 ### TDD
 - Test Driven Development : 테스트 주도 개발
-
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dfb4598a-57e7-424d-80bd-aaf47d791f97/Untitled.png)
-
 - 프로덕션 코드보다 테스트 코드를 먼저 작성하는 개발 방법
 - TFD(Test Firest Development) + 리팩터링
 - 기능 동작을 검증(메소드 단위
